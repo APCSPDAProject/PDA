@@ -1,3 +1,7 @@
+package Base;
+import UI.PixDumpWindow;
+import UI.Window;
+
 
 public class Main {
 
@@ -8,6 +12,7 @@ public class Main {
 		
 		p = new PixDumpWindow();
 		window = new Window();
+		
 		
 		
 	}
